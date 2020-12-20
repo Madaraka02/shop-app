@@ -1,0 +1,11 @@
+.sidebarRow{
+    padding: 10px;
+    
+}
+.sidebarRow__title{
+    font-size: smaller;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    
+
+}

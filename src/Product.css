@@ -1,0 +1,23 @@
+.products__page{
+
+    
+    margin-top: 20px;
+    z-index: -1;
+   
+}
+/* .product__row{
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+    margin-left: 5px;
+}  */
+.product__row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    z-index: 1;
+    margin-left: 15px;
+    margin-right: 15px;
+}
